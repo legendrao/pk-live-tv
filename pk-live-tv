@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Pakistan News",Geo News
+https://live.geo.tv/geonews/geo/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan News",ARY News
+https://arynews.aryzap.com/arynews/arynews.m3u8
+
+#EXTINF:-1 group-title="Pakistan News",Samaa News
+https://samaa.tv/live/samaa/playlist.m3u8
